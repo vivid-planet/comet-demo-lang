@@ -1,6 +1,5 @@
 {
   "comet.blocks": "Blocks",
-  "comet.blocks.image": "Image",
   "comet.dashboard.latestContentUpdates.name": "Page Name",
   "comet.dashboard.latestContentUpdates.updatedAt": "Updated At",
   "comet.pages.publisher.runtime": "Runtime",
