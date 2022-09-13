@@ -41,9 +41,6 @@
   "cometDemo.news.title": "Title",
   "cometDemo.pageContentBlock.userGroup.dialogTitle": "Visibility rules",
   "cometDemo.pageContentBlock.userGroup.menuItem": "Visibility rules",
-  "cometDemo.pageContentBlock.userGroupOptions.Admin": "Show only for group: Admin",
-  "cometDemo.pageContentBlock.userGroupOptions.All": "Show for all",
-  "cometDemo.pageContentBlock.userGroupOptions.User": "Show only for group: User",
   "cometDemo.pageTreeNode.fields.userGroup": "User-Group",
   "cometDemo.pages.dashboard.hello": "Hallo!",
   "cometDemo.pages.dashboard.helloUser": "Hallo {givenName}!",
@@ -54,5 +51,8 @@
   "cometDemo.pages.pages.page.edit.preview": "Web preview",
   "cometDemo.predefinedPage": "Predefined Page",
   "cometDemo.structuredContent.news": "News",
-  "cometDemo.structuredContent.type": "Type"
+  "cometDemo.structuredContent.type": "Type",
+  "cometDemo.userGroupOptions.Admin": "Show only for group: Admin",
+  "cometDemo.userGroupOptions.All": "Show for all",
+  "cometDemo.userGroupOptions.User": "Show only for group: User"
 }
