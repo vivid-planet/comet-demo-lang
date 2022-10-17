@@ -4,6 +4,10 @@
   "comet.dashboard.latestContentUpdates.updatedAt": "Updated At",
   "comet.pages.publisher.runtime": "Runtime",
   "comet.pages.publisher.status": "Status",
+  "comet.products.addProduct": "Add product",
+  "comet.products.editProduct": "Edit product",
+  "comet.products.productDetail": "Product Detail",
+  "comet.products.products": "Products",
   "cometDemo.blocks.fullWidthImage": "Full Width Image",
   "cometDemo.blocks.linkList.displayName": "Link list",
   "cometDemo.blocks.linkList.itemName": "link",
@@ -50,9 +54,15 @@
   "cometDemo.pages.pages.page.edit.pageBlocks.title": "Page",
   "cometDemo.pages.pages.page.edit.preview": "Web preview",
   "cometDemo.predefinedPage": "Predefined Page",
+  "cometDemo.products.newProduct": "New Product",
   "cometDemo.structuredContent.news": "News",
   "cometDemo.structuredContent.type": "Type",
   "cometDemo.userGroupOptions.Admin": "Show only for group: Admin",
   "cometDemo.userGroupOptions.All": "Show for all",
-  "cometDemo.userGroupOptions.User": "Show only for group: User"
+  "cometDemo.userGroupOptions.User": "Show only for group: User",
+  "demo.common.error": "Ein Fehler ist aufgetreten. Bitte versuchen Sie es später noch einmal.",
+  "demo.product.description": "Preis",
+  "demo.product.inStock": "Auf Lager",
+  "demo.product.slug": "Slug",
+  "demo.product.title": "Titel"
 }
