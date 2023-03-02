@@ -24,6 +24,7 @@
   "cometDemo.mainMenuItems.name": "Name",
   "cometDemo.mainMenuItems.path": "Path",
   "cometDemo.menu.componentDemo": "Component demo",
+  "cometDemo.menu.cronJobs": "Cron Jobs",
   "cometDemo.menu.dam": "Assets",
   "cometDemo.menu.dashboard": "Dashboard",
   "cometDemo.menu.mainMenu": "Main menu",
