@@ -39,6 +39,7 @@
   "pageContentBlock.userGroup.dialogTitle": "Visibility rules",
   "pageContentBlock.userGroup.menuItem": "Visibility rules",
   "pageTreeNode.fields.userGroup": "User-Group",
+  "pages.blocks.video": "Video",
   "pages.dashboard.hello": "Hallo!",
   "pages.dashboard.helloUser": "Hallo {givenName}!",
   "pages.dashboard.latestBuilds": "Latest Builds",
