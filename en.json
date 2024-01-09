@@ -50,6 +50,8 @@
   "pageTreeNode.fields.userGroup": "User-Group",
   "pages.blocks.media": "Media",
   "pages.blocks.video": "Video",
+  "pages.dam.importFromUnsplash": "Import from Unsplash",
+  "pages.dam.importFromUnsplash.dialog.shuffle": "Shuffle",
   "pages.pages.page.edit.config": "Config",
   "pages.pages.page.edit.preview": "Web preview",
   "predefinedPage": "Predefined Page",
