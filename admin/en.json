@@ -9,6 +9,8 @@
   "blocks.teaser.headline": "Headline",
   "blocks.teaser.image": "Image",
   "blocks.teaser.links": "Links",
+  "columnsBlock.layouts.twoColumns.section.differentWidth": "Different width",
+  "columnsBlock.layouts.twoColumns.section.sameWidth": "Same width",
   "comet.products.productTitle.info": "The title/name of the product",
   "common.error": "An error has occured. Please try again at later",
   "dam.importSource.unsplash.label": "Unsplash",
