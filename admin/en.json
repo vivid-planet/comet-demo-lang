@@ -120,6 +120,7 @@
   "product.description": "Description",
   "product.image": "Image",
   "product.inStock": "In stock",
+  "product.lastCheckedAt": "Last Checked At",
   "product.mainData.supportText": "Product: {title}",
   "product.mainData.title": "Main Data",
   "product.manufacturer": "Manufacturer",
