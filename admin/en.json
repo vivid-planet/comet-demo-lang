@@ -132,6 +132,7 @@
   "product.manufacturer": "Manufacturer",
   "product.manufacturerCountry": "Manufacturer Country",
   "product.newProduct": "New Product",
+  "product.overview": "Overview",
   "product.price": "Price",
   "product.price.helperText": "Enter price in this format: 123,45",
   "product.priceList": "Price List",
