@@ -141,7 +141,7 @@
   "product.price.helperText": "Enter price in this format: 123,45",
   "product.price.tooltip": "Price in EUR",
   "product.priceList": "Price List",
-  "product.priceRange": "Price range",
+  "product.priceRange": "Price Range",
   "product.slug": "Slug",
   "product.soldCount": "Sold Count",
   "product.staticSelectInStock": "In stock (static select)",
