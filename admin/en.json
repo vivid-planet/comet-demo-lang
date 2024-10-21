@@ -4,6 +4,7 @@
   "blocks.linkList.displayName": "Link list",
   "blocks.linkList.itemName": "link",
   "blocks.linkList.itemsName": "links",
+  "blocks.newsList.name": "News List",
   "blocks.teaser": "Teaser",
   "blocks.teaser.buttons": "Buttons",
   "blocks.teaser.headline": "Headline",
