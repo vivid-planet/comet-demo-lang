@@ -146,7 +146,7 @@
   "product.dimensions.dimensionsEnabled": "Configure dimensions",
   "product.height": "Height",
   "product.image": "Image",
-  "product.inStock": "In Stock",
+  "product.inStock": "In stock",
   "product.inStock.false.primary": "Out of stock",
   "product.inStock.true.primary": "In stock",
   "product.lastCheckedAt": "Last Checked At",
