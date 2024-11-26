@@ -16,7 +16,7 @@
   "comet.manufacturers.id.info": "The id of the manufacturer",
   "comet.products.product.inStock": "In stock",
   "comet.products.product.outOfStock": "Out of stock",
-  "common.error": "An error has occured. Please try again at later",
+  "common.error": "An error has occurred. Please try again at later",
   "dam.importSource.unsplash.label": "Unsplash",
   "dashboard": "Dashboard",
   "layoutBlock.displayName": "Layout",
