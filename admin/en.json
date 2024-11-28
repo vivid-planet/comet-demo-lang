@@ -154,6 +154,7 @@
   "product.mainData.supportText": "Product: {title}",
   "product.mainData.title": "Main Data",
   "product.manufacturer": "Manufacturer",
+  "product.manufacturer.name": "Manufacturer",
   "product.manufacturerCountry": "Manufacturer Country",
   "product.newProduct": "New Product",
   "product.overview": "Overview",
