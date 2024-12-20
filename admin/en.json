@@ -217,7 +217,7 @@
   "product.inStock": "In stock",
   "product.inStock.false.primary": "Out of stock",
   "product.inStock.true.primary": "In stock",
-  "product.lastCheckedAt": "Last Checked At",
+  "product.lastCheckedAt": "Last checked at",
   "product.mainData.supportText": "Product: {title}",
   "product.mainData.title": "Main Data",
   "product.manufacturer": "Manufacturer",
