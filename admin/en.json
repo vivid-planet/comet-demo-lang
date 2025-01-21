@@ -215,6 +215,7 @@
   "product.depth": "Depth",
   "product.description": "Description",
   "product.dimensions.dimensionsEnabled": "Configure dimensions",
+  "product.futureProductNotice": "This product will not be visible to the public until the selected date.",
   "product.height": "Height",
   "product.image": "Image",
   "product.inStock": "In stock",
