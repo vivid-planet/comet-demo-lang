@@ -217,6 +217,7 @@
   "product.dimensions.dimensionsEnabled": "Configure dimensions",
   "product.futureProductNotice": "This product will not be visible to the public until the selected date.",
   "product.height": "Height",
+  "product.id": "ID",
   "product.image": "Image",
   "product.inStock": "In stock",
   "product.inStock.false.primary": "Out of stock",
