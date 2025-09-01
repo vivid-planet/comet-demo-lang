@@ -6,6 +6,8 @@
   "accordionBlock.displayName": "Accordion",
   "accordionBlock.itemName": "accordion item",
   "accordionBlock.itemsName": "accordion items",
+  "accordionItem.headline": "Headline {level}",
+  "accordionItem.titleHtmlTag": "Title HTML tag",
   "basicStageBlock.alignment": "Alignment",
   "basicStageBlock.alignment.center": "center",
   "basicStageBlock.alignment.left": "left",
