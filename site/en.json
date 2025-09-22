@@ -3,6 +3,7 @@
   "header.backButton.arialLabel": "Go back",
   "header.closeButton.arialLabel": "Close Menu",
   "header.closeMenu": "Close Menu",
+  "header.logo.title": "Comet DXP Logo",
   "header.menu.arialLabel": "Menu",
   "header.overview": "Overview",
   "header.subMenu.arialLabel": "Submenu of {name}",
