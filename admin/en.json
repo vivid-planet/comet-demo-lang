@@ -257,6 +257,7 @@
   "product.validate.titleMustBe3CharsLog": "Title must be at least 3 characters long",
   "product.variants": "Variants",
   "product.width": "Width",
+  "productCategory.placeholder": "Choose a Product Category",
   "productCategory.position": "Position",
   "productCategory.productCategoriesGrid.newEntry": "New Product Category",
   "productCategory.slug": "Slug",
