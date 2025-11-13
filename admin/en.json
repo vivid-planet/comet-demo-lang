@@ -264,6 +264,7 @@
   "product.type.cap.primary": "Great cap",
   "product.type.shirt": "Shirt",
   "product.type.tie": "Tie",
+  "product.validate.slugMustBeUnique": "Slug must be unique. A product with this slug already exists.",
   "product.validate.titleMustBe3CharsLog": "Title must be at least 3 characters long",
   "product.variants": "Variants",
   "product.width": "Width",
