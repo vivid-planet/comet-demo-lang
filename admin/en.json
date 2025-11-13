@@ -29,6 +29,7 @@
   "blocks.newsDetail.id.label": "ID",
   "blocks.newsLink.id.label": "ID",
   "blocks.newsList.name": "News List",
+  "blocks.pageTreeIndex": "Page Tree Index",
   "callToActionBlock.displayName": "Call To Action",
   "callToActionBlock.link.displayName": "Link",
   "callToActionBlock.variant": "Variant",
