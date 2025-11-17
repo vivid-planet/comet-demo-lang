@@ -1,6 +1,8 @@
 {
   "header.back": "Back",
   "header.backButton.arialLabel": "Go back",
+  "header.breadcrumbs.home": "Home",
+  "header.closeBreadcrumbs": "Close Breadcrumbs",
   "header.closeButton.arialLabel": "Close Menu",
   "header.closeMenu": "Close Menu",
   "header.logo.title": "Comet DXP Logo",
