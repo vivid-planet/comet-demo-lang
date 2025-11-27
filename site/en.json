@@ -10,6 +10,8 @@
   "header.overview": "Overview",
   "header.subMenu.arialLabel": "Submenu of {name}",
   "header.subMenu.closeButton": "Close submenu of {name}",
+  "playPauseButton.pause": "Pause",
+  "playPauseButton.play": "Play",
   "skipLink.skipToFooter": "Skip to footer",
   "skipLink.skipToMainContent": "Skip to main content",
   "swiper.nextButton.ariaLabel": "Next slide",
