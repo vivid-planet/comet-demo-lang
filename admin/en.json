@@ -254,7 +254,7 @@
   "product.manufacturer.name": "Manufacturer",
   "product.manufacturerCountry": "Manufacturer Country",
   "product.newProduct": "New Product",
-  "product.overview": "Overview",
+  "product.overview.headerName": "Over-view",
   "product.overview.secondaryText": "{price} • {type} • {category} • {inStock}",
   "product.overview.secondaryText.category.empty": "No category",
   "product.overview.secondaryText.inStock": "In stock",
