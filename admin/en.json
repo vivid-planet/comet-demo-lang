@@ -238,6 +238,7 @@
   "product.availableSince": "Available Since",
   "product.category": "Category",
   "product.createdAt": "Created At",
+  "product.crudContextMenu.delete": "Extinguish",
   "product.datasheets": "Datasheets",
   "product.depth": "Depth",
   "product.description": "Description",
