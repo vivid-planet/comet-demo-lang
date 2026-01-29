@@ -1,6 +1,5 @@
 {
-  "product-published-mail.html-message": "<p>{salutation},</p><p>{countProductPublished, select, all {all products} 1 {a product has} other {{countProductPublished} products have}} been published</p>",
   "product-published-mail.subject": "Products published",
-  "product-published-mail.text-message": "{salutation},{br}{br}{countProductPublished, select, all {all products} 1 {a product has} other {{countProductPublished} products have}} been published",
-  "salutation": "Hello {name}"
+  "productPublishedMail.salutation": "Hello {recipientName}",
+  "productPublishedMail.text": "{numberOfProductsPublished, select, all {All products} 1 {A product has} other {{numberOfProductsPublished} products have}} been published."
 }
