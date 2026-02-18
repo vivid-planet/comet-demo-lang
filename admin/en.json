@@ -308,6 +308,7 @@
   "product.type": "Type",
   "product.type.cap": "Cap",
   "product.type.cap.primary": "Great cap",
+  "product.type.greatCap": "Great Cap",
   "product.type.shirt": "Shirt",
   "product.type.tie": "Tie",
   "product.validate.slugMustBeUnique": "Slug must be unique. A product with this slug already exists.",
