@@ -418,6 +418,12 @@
   "teaserItemsBlock.itemName": "item",
   "teaserItemsBlock.itemsName": "items",
   "tie": "Tie",
+  "tipTapRichTextBlock.eyebrow450": "Eyebrow 450",
+  "tipTapRichTextBlock.eyebrow500": "Eyebrow 500",
+  "tipTapRichTextBlock.eyebrow550": "Eyebrow 550",
+  "tipTapRichTextBlock.eyebrow600": "Eyebrow 600",
+  "tipTapRichTextBlock.paragraph200": "Paragraph Small",
+  "tipTapRichTextBlock.paragraph300": "Paragraph",
   "userGroupOptions.Admin": "Show only for group: Admin",
   "userGroupOptions.All": "Show for all",
   "userGroupOptions.User": "Show only for group: User"
