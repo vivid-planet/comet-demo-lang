@@ -304,6 +304,8 @@
   "product.price.tooltip": "Price in EUR",
   "product.priceList": "Price List",
   "product.priceRange": "Price range",
+  "product.relatedImages": "Related images",
+  "product.relatedImages.choose": "Choose related images",
   "product.slug": "Slug",
   "product.tags": "Tags",
   "product.title": "Title",
