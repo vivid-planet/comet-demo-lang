@@ -424,6 +424,8 @@
   "tipTapRichTextBlock.eyebrow500": "Eyebrow 500",
   "tipTapRichTextBlock.eyebrow550": "Eyebrow 550",
   "tipTapRichTextBlock.eyebrow600": "Eyebrow 600",
+  "tipTapRichTextBlock.inlineStyle.highlight": "Highlight",
+  "tipTapRichTextBlock.inlineStyle.tag": "Tag",
   "tipTapRichTextBlock.list200": "List Small",
   "tipTapRichTextBlock.list300": "List",
   "tipTapRichTextBlock.paragraph200": "Paragraph Small",
