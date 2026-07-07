@@ -31,6 +31,8 @@
   "blocks.newsLink.id.label": "ID",
   "blocks.newsList.name": "News List",
   "blocks.pageTreeIndex": "Page Tree Index",
+  "blocks.productPrice.displayName": "Product Price",
+  "blocks.productPrice.product": "Product",
   "brevoContact.fields.branch": "Branch",
   "brevoContact.fields.firstName": "First name",
   "brevoContact.fields.lastName": "Last name",
