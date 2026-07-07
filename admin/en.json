@@ -33,6 +33,8 @@
   "blocks.pageTreeIndex": "Page Tree Index",
   "blocks.productPrice.displayName": "Product Price",
   "blocks.productPrice.product": "Product",
+  "blocks.productTeaser.displayName": "Product Teaser",
+  "blocks.productTeaser.product": "Product",
   "brevoContact.fields.branch": "Branch",
   "brevoContact.fields.firstName": "First name",
   "brevoContact.fields.lastName": "Last name",
