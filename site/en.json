@@ -1,4 +1,6 @@
 {
+  "contactForm.attachments.label": "Attachments",
+  "contactForm.attachments.tooLarge": "File is too large.",
   "contactForm.company.label": "Company",
   "contactForm.company.placeholder": "Company name",
   "contactForm.email.invalid": "Invalid email address",
@@ -26,6 +28,10 @@
   "contactFormBlock.missingRecaptchaKey": "The form is currently unavailable. Please try again later.",
   "contactFormBlock.missingRecaptchaToken": "ReCAPTCHA validation failed. Please try again.",
   "fieldContainer.optional": "(optional)",
+  "fileUploadField.chooseFiles": "Choose files",
+  "fileUploadField.hasFailedFileUploads": "Please remove files that failed to upload.",
+  "fileUploadField.removeFile": "Remove {fileName}",
+  "fileUploadField.uploadFailed": "Upload failed. Please try again.",
   "header.back": "Back",
   "header.backButton.arialLabel": "Go back",
   "header.breadcrumbs.home": "Home",
