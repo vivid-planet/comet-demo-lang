@@ -1,4 +1,6 @@
 {
+  "aiContentDisclosure.altTextPrefix.generated": "AI-generated",
+  "aiContentDisclosure.altTextPrefix.modified": "AI-modified",
   "contactForm.attachments.label": "Attachments",
   "contactForm.attachments.tooLarge": "File is too large.",
   "contactForm.company.label": "Company",
