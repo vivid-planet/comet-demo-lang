@@ -435,6 +435,7 @@
   "tipTapRichTextBlock.list300": "List",
   "tipTapRichTextBlock.paragraph200": "Paragraph Small",
   "tipTapRichTextBlock.paragraph300": "Paragraph",
+  "tipTapTableBlock.displayName": "Table (TipTap)",
   "userGroupOptions.Admin": "Show only for group: Admin",
   "userGroupOptions.All": "Show for all",
   "userGroupOptions.User": "Show only for group: User"
