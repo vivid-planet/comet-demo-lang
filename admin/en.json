@@ -80,7 +80,6 @@
   "dam.importSource.picsum.label": "Lorem Picsum",
   "dashboard": "Dashboard",
   "editPage.discardChanges": "Discard unsaved changes?",
-  "emailCampaign.dividerBlock.displayName": "Divider",
   "emailCampaign.salutationBlock.displayName": "Salutation",
   "footers.blocks.caption": "Caption",
   "footers.blocks.content.copyrightNotice": "Copyright notice",
@@ -128,6 +127,7 @@
   "layoutBlock.text2": "Text 2",
   "linkBlock.tag.button": "Button",
   "linkBlock.tag.link": "link",
+  "mail.dividerBlock.displayName": "Divider",
   "mainMenu.addContent": "Add content",
   "mainMenu.editMenuItem": "Edit menu item",
   "mainMenu.menuItem": "Menu item",
@@ -205,6 +205,7 @@
   "menu.newsletter.emailCampaigns": "Email campaigns",
   "menu.newsletter.targetGroups": "Target groups",
   "menu.newsletter.testContacts": "Test contacts",
+  "menu.newsletter.welcomeEmail": "Welcome email",
   "menu.pageTree": "Page tree",
   "menu.pageTree.mainNavigation": "Main navigation",
   "menu.pageTree.topMenu": "Top menu",
@@ -438,5 +439,11 @@
   "tipTapTableBlock.displayName": "Table (TipTap)",
   "userGroupOptions.Admin": "Show only for group: Admin",
   "userGroupOptions.All": "Show for all",
-  "userGroupOptions.User": "Show only for group: User"
+  "userGroupOptions.User": "Show only for group: User",
+  "welcomeEmail.edit.lastSavedVersionHint": "Uses the last saved version",
+  "welcomeEmail.edit.openInSite": "Open in site",
+  "welcomeEmail.edit.sendTestMail": "Send test mail",
+  "welcomeEmail.edit.sendTestMail.error": "Failed to send test mail",
+  "welcomeEmail.edit.sendTestMail.success": "Test mail sent to Mailpit",
+  "welcomeEmail.edit.toolbarTitle": "Edit welcome email"
 }
